@@ -34,16 +34,16 @@ Sistema de gimnasio , desarrollo de módulos de training
 15.	El sistema debe de contener un archivo técnico de documentación.
 
 ## Requerimientos No Funcionales
-1. El sistema web debe ser capaz de soportar una gran cantidad de usuarios simultáneos sin afectar el rendimiento. 
-2. El tiempo de respuesta del sistema debe ser rápido y fluido, además las páginas web deben cargarse rápidamente.
-3. El sistema debe ser escalable para poder adaptarse al crecimiento del gimnasio.
-4. Se deben implementar medidas de seguridad para evitar el acceso no autorizado a la información, como cifrado de datos.
-5. El sistema debe de cumplir con las leyes de protección de datos.
-6. El sistema web debe ser fácil de usar para todos los usuarios, la interfaz de usuario tiene que ser intuitiva y sencilla.
-7. El sistema web debe proteger la información confidencial de los clientes y del personal.
-8. Se debe proporcionar una documentación completa del sistema web.
-9. El sistema tiene que incluir un archivo documentación con información sobre uso del sistema web.
-10. La documentación debe incluir un organigrama de trabajo.
+* El sistema web debe ser capaz de soportar una gran cantidad de usuarios simultáneos sin afectar el rendimiento. 
+* El tiempo de respuesta del sistema debe ser rápido y fluido, además las páginas web deben cargarse rápidamente.
+* El sistema debe ser escalable para poder adaptarse al crecimiento del gimnasio.
+* Se deben implementar medidas de seguridad para evitar el acceso no autorizado a la información, como cifrado de datos.
+* El sistema debe de cumplir con las leyes de protección de datos.
+* El sistema web debe ser fácil de usar para todos los usuarios, la interfaz de usuario tiene que ser intuitiva y sencilla.
+* El sistema web debe proteger la información confidencial de los clientes y del personal.
+* Se debe proporcionar una documentación completa del sistema web.
+* El sistema tiene que incluir un archivo documentación con información sobre uso del sistema web.
+* La documentación debe incluir un organigrama de trabajo.
 
 ## Reglas de Negocio 
 1. Los entrenadores deben comunicarse claramente con los clientes y estar disponibles para discutir su progreso y cualquier inquietud que puedan tener.
