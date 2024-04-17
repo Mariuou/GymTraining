@@ -3,6 +3,9 @@ Sistema de gimnasio , desarrollo de módulos de training
 
 ### Organigrama de equipo
 
+<p align="center">
+  <img src="Img/ORGANIGRAMA.png?raw=true" alt="Organigrama de equipo">
+</p>
 
 | Nombre Completo              | Cargo                   | 
 |------------------------------|-------------------------|
