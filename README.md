@@ -1,7 +1,7 @@
 # GymTraining
 Sistema de gimnasio , desarrollo de módulos de training
 
-### Organigrama de equipo
+## Organigrama de equipo
 
 <p align="center">
   <img src="Img/ORGANIGRAMA.png?raw=true" alt="Organigrama de equipo">
@@ -16,8 +16,26 @@ Sistema de gimnasio , desarrollo de módulos de training
                       
 
 ## Objetivo General
+Desarrollar un módulo de entrenamiento dentro del sistema web de un gimnasio. Este módulo estará destinado a optimizar la gestión integral de la institución, brindando una plataforma digital que mejore la experiencia tanto de los empleados como de los miembros. Además, se buscará proporcionar herramientas que faciliten la creación, seguimiento y personalización de programas de entrenamiento, rutinas de ejercicios y sesiones específicas para los clientes del gimnasio todo esto con el apoyo de instructores y el uso de una dieta adecuada, promoviendo así la adopción de hábitos saludables y una mejor interacción entre el personal y los usuarios.
 
 ## Objetivos Específicos
+Genial, teniendo en cuenta tus mockups, aquí tienes objetivos específicos para cada uno:
+
+1. **Inicio de Sesión:** Diseñar una interfaz de inicio de sesión intuitiva y atractiva, segura que permita a los usuarios acceder al sistema web del gimnasio.siguiendo el diseño presentado en el mockup.
+
+2. **Módulo de Creación de Rutinas:** Desarrollar un formulario de creación de rutinas que permita a los instructores agregar nuevos ejercicios, establecer repeticiones, series y descansos, validando los datos ingresados para evitar errores y garantizar la coherencia de las rutinas creadas.
+  
+
+3. **Módulo de Lectura de Rutinas:** Diseñar una interfaz limpia y fácil de entender que muestre las rutinas existentes de forma clara y ordenada, permitiendo a los usuarios ver detalles específicos de cada rutina, como ejercicios incluidos, series y repeticiones.
+   
+4. **Módulo de Actualización de Rutinas:** Habilitar la edición de rutinas existentes, permitiendo a los instructores realizar cambios en los ejercicios, repeticiones y otros detalles según sea necesario.
+
+5. **Módulo de Eliminación de Rutinas:** Integrar una función de eliminación que permita a los instructores eliminar rutinas obsoletas o incorrectas de manera segura y eficiente.
+   
+6. **Módulo de Programas Saludables:** Diseñar una página que muestre información detallada sobre los programas saludables ofrecidos por el gimnasio, siguiendo el diseño presentado en el mockup. Mostrar tablas con datos relevantes, como nombres de programas, descripciones y beneficios.
+  
+7. **Dashboard de Seguimiento:** Desarrollar un dashboard interactivo que proporcione a los usuarios una visión general de su progreso en el gimnasio. Incluir gráficos y estadísticas que muestren datos clave, como el rendimiento en las rutinas, la frecuencia de entrenamiento y el cumplimiento de los programas saludables.
+
 
 ## Requerimientos Funcionales
 * El sistema debe de asignar permisos y accesos específicos a cada rol de usuario.                                  
@@ -70,6 +88,16 @@ Sistema de gimnasio , desarrollo de módulos de training
 * Los miembros no pueden tener un dashboard de seguimiento hasta que estén inscritos en un programa saludable.
 * No se pueden realizar operaciones CRUD si nos son instructores verificados.
 
+## MOCKUPS
+<p align="center">
+  <img src="Img/MKPS1.png?raw=true" alt="Diseño">
+  <img src="Img/MKPS2.png?raw=true" alt="Diseño">
+  <img src="Img/MKPS3.png?raw=true" alt="Diseño">
+  <img src="Img/MKPS4.png?raw=true" alt="Diseño">
+  <img src="Img/MKPS5.png?raw=true" alt="Diseño">
+  <img src="Img/MKPS6.png?raw=true" alt="Diseño">
+  <img src="Img/MKPS7.png?raw=true" alt="Diseño">
+</p>
 
 
  
