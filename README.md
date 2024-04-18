@@ -88,19 +88,31 @@ Desarrollar un módulo de entrenamiento dentro del sistema web de un gimnasio. E
 
 ## MOCKUPS
 <p align="center">
-**Inicio de Sesión:**
+#Inicio de Sesión:
   <img src="Img/MKPS1.png?raw=true" alt="Diseño"> <br>
-  **Rutinas (Create):**
+</p>
+<p align="center">
+#Rutinas (Create):**
   <img src="Img/MKPS2.png?raw=true" alt="Diseño"><br>
-  **Rutinas (Read):**
+</p>
+<p align="center">
+#Rutinas (Read):**
   <img src="Img/MKPS3.png?raw=true" alt="Diseño"><br>
-  **Rutinas (Update):**
+</p>
+<p align="center">
+#Rutinas (Update):**
   <img src="Img/MKPS4.png?raw=true" alt="Diseño"><br>
-  **Rutinas (Delete):**
+</p>
+<p align="center">
+#Rutinas (Delete):**
   <img src="Img/MKPS5.png?raw=true" alt="Diseño"><br>
-  **Programa Saludable (Tablas):**
+</p>
+<p align="center">
+#Programa Saludable (Tablas):**
   <img src="Img/MKPS6.png?raw=true" alt="Diseño"><br>
-  **Dashboard de seguimiento:**
+</p>
+<p align="center">
+#Dashboard de seguimiento:**
   <img src="Img/MKPS7.png?raw=true" alt="Diseño"><br>
 </p>
 
