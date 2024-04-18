@@ -87,33 +87,33 @@ Desarrollar un módulo de entrenamiento dentro del sistema web de un gimnasio. E
 * No se pueden realizar operaciones CRUD si nos son instructores verificados.
 
 ## MOCKUPS
-<p align="center">
 #Inicio de Sesión:
-  <img src="Img/MKPS1.png?raw=true" alt="Diseño"> <br>
-</p>
 <p align="center">
-#Rutinas (Create):**
-  <img src="Img/MKPS2.png?raw=true" alt="Diseño"><br>
+  <img src="Img/MKPS1.png?raw=true" alt="Diseño"> 
 </p>
+#Rutinas (Create):
 <p align="center">
-#Rutinas (Read):**
-  <img src="Img/MKPS3.png?raw=true" alt="Diseño"><br>
+  <img src="Img/MKPS2.png?raw=true" alt="Diseño">
 </p>
+#Rutinas (Read):
 <p align="center">
-#Rutinas (Update):**
-  <img src="Img/MKPS4.png?raw=true" alt="Diseño"><br>
+  <img src="Img/MKPS3.png?raw=true" alt="Diseño">
 </p>
+#Rutinas (Update):
 <p align="center">
-#Rutinas (Delete):**
-  <img src="Img/MKPS5.png?raw=true" alt="Diseño"><br>
+  <img src="Img/MKPS4.png?raw=true" alt="Diseño">
 </p>
+#Rutinas (Delete):
 <p align="center">
-#Programa Saludable (Tablas):**
-  <img src="Img/MKPS6.png?raw=true" alt="Diseño"><br>
+  <img src="Img/MKPS5.png?raw=true" alt="Diseño">
 </p>
+#Programa Saludable (Tablas):
 <p align="center">
-#Dashboard de seguimiento:**
-  <img src="Img/MKPS7.png?raw=true" alt="Diseño"><br>
+  <img src="Img/MKPS6.png?raw=true" alt="Diseño">
+</p>
+#Dashboard de seguimiento:
+<p align="center">
+  <img src="Img/MKPS7.png?raw=true" alt="Diseño">
 </p>
 
 
