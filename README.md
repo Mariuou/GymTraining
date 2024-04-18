@@ -1,4 +1,5 @@
 # UDN: TRAINING
+
 ## Organigrama de equipo
 
 <p align="center">
@@ -11,7 +12,11 @@
 | Marco Antonio Morales Rivera | Documentador            |                        
 | Jorge Cruz Cazarez           | Desarrollador Backend   |                            
 | Suri Jazmin Peña Lira        | Desarrollador Frontend  |
-                      
+
+## Propuesta de Plan de Trabajo       
+<p align="center">
+  <img src="Img/PLAN DE TRABAJO-TRAINING.png?raw=true" alt="Organigrama de equipo">
+</p>
 
 ## Objetivo General
 Desarrollar un módulo de entrenamiento dentro del sistema web de un gimnasio. Este módulo estará destinado a optimizar la gestión integral de la institución, brindando una plataforma digital que mejore la experiencia tanto de los empleados como de los miembros. Además, se buscará proporcionar herramientas que faciliten la creación, seguimiento y personalización de programas de entrenamiento, rutinas de ejercicios y sesiones específicas para los clientes del gimnasio todo esto con el apoyo de instructores y el uso de una dieta adecuada, promoviendo así la adopción de hábitos saludables y una mejor interacción entre el personal y los usuarios.
@@ -21,7 +26,6 @@ Desarrollar un módulo de entrenamiento dentro del sistema web de un gimnasio. E
 
 2. **Módulo de Creación de Rutinas:** Desarrollar un formulario de creación de rutinas que permita a los instructores agregar nuevos ejercicios, establecer repeticiones, series y descansos, validando los datos ingresados para evitar errores y garantizar la coherencia de las rutinas creadas.
   
-
 3. **Módulo de Lectura de Rutinas:** Diseñar una interfaz limpia y fácil de entender que muestre las rutinas existentes de forma clara y ordenada, permitiendo a los usuarios ver detalles específicos de cada rutina, como ejercicios incluidos, series y repeticiones.
    
 4. **Módulo de Actualización de Rutinas:** Habilitar la edición de rutinas existentes, permitiendo a los instructores realizar cambios en los ejercicios, repeticiones y otros detalles según sea necesario.
