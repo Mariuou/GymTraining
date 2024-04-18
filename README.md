@@ -1,5 +1,5 @@
 
-<center>TRAINING</center>
+# TRAINING
 
 ## Organigrama de equipo
 
