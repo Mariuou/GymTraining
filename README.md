@@ -1,4 +1,5 @@
-# UDN: TRAINING
+
+<center>TRAINING</center>
 
 ## Organigrama de equipo
 
