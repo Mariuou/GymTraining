@@ -1,6 +1,4 @@
-# GymTraining
-Sistema de gimnasio , desarrollo de módulos de training
-
+# UDN: TRAINING
 ## Organigrama de equipo
 
 <p align="center">
