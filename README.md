@@ -13,11 +13,13 @@
 | PROYECTO           | Sitio web GYM BULL´S |          
 | UNIDAD DE NEGOCIO  | Training             |            
 
+</div>
+
 <br>
 
 ## Organigrama
 
-</div>
+
 
 <p align="center">
   <img src="Img/ORGANIGRAMA.png?raw=true" alt="Organigrama de equipo">
