@@ -8,10 +8,11 @@
 
 <div align="center">
 
-| EMPRESA            | DeWeb                | 
-|-------------------------------------------|           
-| PROYECTO           | Sitio web GYM BULL´S |          
-| UNIDAD DE NEGOCIO  | Training             |            
+| Nombre Completo              | Cargo                   | 
+|------------------------------|-------------------------|
+| Mario Gutierrez Rosales      | Lider/DB Manager        |           
+| Marco Antonio Morales Rivera | Documentador            |             
+
 
 </div>
 
