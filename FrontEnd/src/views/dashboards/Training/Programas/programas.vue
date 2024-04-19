@@ -36,8 +36,6 @@ function filterOnlyCapsText(value: { toString: () => string; } | null, query: st
         typeof value === 'string' &&
         value.toString().toLocaleUpperCase().indexOf(query) !== -1
 }
-
-
 </script>
 <template>
     <BaseBreadcrumb :title="page.title" :breadcrumbs="breadcrumbs"></BaseBreadcrumb>
