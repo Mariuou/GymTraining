@@ -20,15 +20,15 @@ import Customers from "@/components/widgets/charts/Customers.vue";
 import Projects from "@/components/widgets/charts/Projects.vue";
 
 // theme breadcrumb
-const page = ref({ title: 'Charts' });
+const page = ref({ title: 'Dashboard de seguimiento' });
 const breadcrumbs = ref([
     {
-        text: 'Home',
+        text: 'programas saludables',
         disabled: false,
         href: '#'
     },
     {
-        text: 'Charts',
+        text: 'training',
         disabled: true,
         href: '#'
     }
@@ -38,24 +38,25 @@ const breadcrumbs = ref([
     <BaseBreadcrumb :title="page.title" :breadcrumbs="breadcrumbs"></BaseBreadcrumb>        
     <v-row>
         <!-- Followers Chart -->
-        <v-col cols="12" sm="3">
-            <Followers />
-        </v-col>
+        
         <!-- Views Chart -->
-        <v-col cols="12" sm="3">
+        <!-- <v-col cols="12" sm="3">
             <Views />
-        </v-col>
+        </v-col> -->
         <!-- Earned Chart -->
-        <v-col cols="12" sm="3">
+        <!-- <v-col cols="12" sm="3">
             <Earned />
-        </v-col>
+        </v-col> -->
         <!-- TotalEarning Chart -->
-        <v-col cols="12" sm="3">
+        <!-- <v-col cols="12" sm="3">
             <TotalEarning />
-        </v-col>
+        </v-col> -->
         <!-- Current Value -->
         <v-col cols="12">
             <CurrentValue />
+        </v-col>
+        <v-col cols="12" sm="3">
+            <Followers />
         </v-col>
         <v-col cols="12" md="4">
             <!-- Yearly Breakup -->
