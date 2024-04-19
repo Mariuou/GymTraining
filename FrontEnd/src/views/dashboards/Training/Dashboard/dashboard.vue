@@ -54,7 +54,6 @@ const breadcrumbs = ref([
         <!-- Current Value -->
         <v-col cols="12">
             <!-- <CurrentValue /> -->
-           
                 <YearlyBreakup />
             <MonthlyEarnings />
                     <SalesOverview />
@@ -83,7 +82,6 @@ const breadcrumbs = ref([
                 </v-col>
             </v-row>
         </v-col>
-
         <v-col cols="12" md="4">
             <v-row>
                 <!-- Revenue Updates -->
