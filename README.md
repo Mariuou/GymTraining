@@ -40,7 +40,7 @@
   <img src="Img/ORGANIGRAMA.png?raw=true" alt="Organigrama de equipo">
 </p>
 
-<h3 align="left">Integrantes </h3>
+## Integrantes 
 <br>
 
 <div align="center">
