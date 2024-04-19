@@ -10,11 +10,11 @@
 <h2 align="center"> Octavo Cuatrimestre Grupo B </h2>
 <br>
 
-<h3 align="center"> Información del proyecto </h3>
+
 
 <div align="center">
 
-| EMPRESA                      | DeWeb                       | 
+| NOMBRE DE LA EMPRESA         | DeWeb                       | 
 |------------------------------|-----------------------------|
 | PROYECTO                     | Sitio Web GYM BULL´S        |           
 | UNIDAD DE NEGOCIO            | Training                    |             
@@ -30,7 +30,7 @@
   
 | LOGO DEl SITIO  | LOGO DE LA EMPRESA | 
 |:------------- |:---------------:| 
-<img src="Img/LOGO DEBWEB.png" width="400" height="400">|<img src="Img/LOGO SITIO.png" width="400" height="400">|
+<img src="Img/LOGO SITIO.png" width="400" height="400">|<img src="Img/LOGO DEBWEB.png" width="400" height="400">|
   
 </div>
 
