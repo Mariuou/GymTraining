@@ -8,10 +8,10 @@
 
 <div align="center">
 
-| Nombre Completo              | Cargo                   | 
-|------------------------------|-------------------------|
-| Mario Gutierrez Rosales      | Lider/DB Manager        |           
-| Marco Antonio Morales Rivera | Documentador            |             
+| EMPRESA                      | DeWeb                       | 
+|------------------------------|-----------------------------|
+| PROYECTO                     | Sitio Web GYM BULL´S        |           
+| UNIDAD DE NEGOCIO            | Training                    |             
 
 
 </div>
