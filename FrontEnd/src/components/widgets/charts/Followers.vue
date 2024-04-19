@@ -42,10 +42,10 @@ const Chart = {
 <template>
     <v-card elevation="10" >
         <v-card-item>
-            <h4 class="text-h4 mt-1">2,545</h4>
+            <h4 class="text-h4 mt-1">Nivel de avance</h4>
             <div class="d-flex justify-space-between mt-1">
-                <h6 class="text-subtitle-1 text-medium-emphasis">Followers</h6>
-                <h6 class="text-subtitle-1 text-success">+1.20%</h6>
+                <h6 class="text-subtitle-1 text-medium-emphasis">de rutinas</h6>
+                <h6 class="text-subtitle-1 text-success">70%</h6>
             </div>
         </v-card-item>
         <apexchart class="mt-4" type="area" height="88" :options="chartOptions" :series="Chart.series"> </apexchart>

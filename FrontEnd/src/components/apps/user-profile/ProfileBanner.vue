@@ -31,7 +31,7 @@ const items = shallowRef([
                             <v-col cols="4" class="text-center">
                                 <UserCircleIcon size="20" />
                                 <h4 class="text-h4">3,586</h4>
-                                <h6 class="text-h6 font-weight-regular">Followers</h6>
+                                <h6 class="text-h6 font-weight-regular">fhdrthdf</h6>
                             </v-col>
                             <v-col cols="4" class="text-center">
                                 <UserCheckIcon size="20" />
