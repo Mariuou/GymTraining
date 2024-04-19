@@ -4,7 +4,20 @@
 <h1 align="center"> Octavo Cuatrimestre Grupo B </h2>
 <br>
 
-<h3 align="center"> Información del proyecto </h3>
+<h2 align="center"> Información del proyecto </h2>
+
+<div align="center">
+
+| EMPRESA            | DeWeb                | 
+|-------------------------------------------|           
+| PROYECTO           | Sitio web GYM BULL´S |          
+| UNIDAD DE NEGOCIO  | Training             |            
+
+<br>
+
+## Organigrama
+
+</div>
 
 <p align="center">
   <img src="Img/ORGANIGRAMA.png?raw=true" alt="Organigrama de equipo">
