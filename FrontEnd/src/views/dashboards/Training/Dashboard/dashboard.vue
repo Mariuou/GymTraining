@@ -20,15 +20,15 @@ import Customers from "@/components/widgets/charts/Customers.vue";
 import Projects from "@/components/widgets/charts/Projects.vue";
 
 // theme breadcrumb
-const page = ref({ title: 'Charts' });
+const page = ref({ title: 'Dashboard de seguimiento' });
 const breadcrumbs = ref([
     {
-        text: 'Home',
+        text: 'programas saludables',
         disabled: false,
         href: '#'
     },
     {
-        text: 'Charts',
+        text: 'training',
         disabled: true,
         href: '#'
     }
@@ -42,9 +42,9 @@ const breadcrumbs = ref([
             <Followers />
         </v-col>
         <!-- Views Chart -->
-        <v-col cols="12" sm="3">
+        <!-- <v-col cols="12" sm="3">
             <Views />
-        </v-col>
+        </v-col> -->
         <!-- Earned Chart -->
         <v-col cols="12" sm="3">
             <Earned />
