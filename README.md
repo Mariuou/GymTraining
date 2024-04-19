@@ -4,7 +4,7 @@
 <h1 align="center"> Octavo Cuatrimestre Grupo B </h2>
 <br>
 
-<h2 align="center"> Información del proyecto </h2>
+## Información del proyecto 
 
 <div align="center">
 
@@ -35,12 +35,16 @@
 | Jorge Cruz Cazarez           | Desarrollador Backend   | DeWeb      |                      
 | Suri Jazmin Peña Lira        | Desarrollador Frontend  | DeWeb      |
 
+<br>
+
 </div>
 
 ## Propuesta de Plan de Trabajo       
 <p align="center">
   <img src="Img/PLAN DE TRABAJO-TRAINING.png?raw=true" alt="Organigrama de equipo">
 </p>
+
+<br>
 
 ## Objetivo General
 Desarrollar un módulo de entrenamiento dentro del sistema web de un gimnasio. Este módulo estará destinado a optimizar la gestión integral de la institución, brindando una plataforma digital que mejore la experiencia tanto de los empleados como de los miembros. Además, se buscará proporcionar herramientas que faciliten la creación, seguimiento y personalización de programas de entrenamiento, rutinas de ejercicios y sesiones específicas para los clientes del gimnasio todo esto con el apoyo de instructores y el uso de una dieta adecuada, promoviendo así la adopción de hábitos saludables y una mejor interacción entre el personal y los usuarios.
