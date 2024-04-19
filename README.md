@@ -13,10 +13,10 @@
 <div align="center">
 | Nombre Completo              | Cargo                   | Empresa    |
 |------------------------------|-------------------------|------------|
-| Mario Gutierrez Rosales      | Lider/DB Manager        | DebWeb     |           
-| Marco Antonio Morales Rivera | Documentador            | DebWeb     |            
-| Jorge Cruz Cazarez           | Desarrollador Backend   | DebWeb     |                      
-| Suri Jazmin Peña Lira        | Desarrollador Frontend  | DebWeb     |
+| Mario Gutierrez Rosales      | Lider/DB Manager        | DeWeb     |           
+| Marco Antonio Morales Rivera | Documentador            | DeWeb     |            
+| Jorge Cruz Cazarez           | Desarrollador Backend   | DeWeb     |                      
+| Suri Jazmin Peña Lira        | Desarrollador Frontend  | DeWeb     |
 </div>
 
 ## Propuesta de Plan de Trabajo       
