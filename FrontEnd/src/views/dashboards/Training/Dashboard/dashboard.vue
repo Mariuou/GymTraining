@@ -38,24 +38,25 @@ const breadcrumbs = ref([
     <BaseBreadcrumb :title="page.title" :breadcrumbs="breadcrumbs"></BaseBreadcrumb>        
     <v-row>
         <!-- Followers Chart -->
-        <v-col cols="12" sm="3">
-            <Followers />
-        </v-col>
+        
         <!-- Views Chart -->
         <!-- <v-col cols="12" sm="3">
             <Views />
         </v-col> -->
         <!-- Earned Chart -->
-        <v-col cols="12" sm="3">
+        <!-- <v-col cols="12" sm="3">
             <Earned />
-        </v-col>
+        </v-col> -->
         <!-- TotalEarning Chart -->
-        <v-col cols="12" sm="3">
+        <!-- <v-col cols="12" sm="3">
             <TotalEarning />
-        </v-col>
+        </v-col> -->
         <!-- Current Value -->
         <v-col cols="12">
             <CurrentValue />
+        </v-col>
+        <v-col cols="12" sm="3">
+            <Followers />
         </v-col>
         <v-col cols="12" md="4">
             <!-- Yearly Breakup -->
