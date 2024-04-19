@@ -21,7 +21,7 @@
   
 | LOGO DEl SITIO  | LOGO DE LA EMPRESA | 
 |:------------- |:---------------:| 
-<img src="Img/LOGO DEBWEB.png" width="400" height="400">|<img src="Img/LOGO DEBWEB.png" width="400" height="300">|
+<img src="Img/LOGO DEBWEB.png" width="400" height="400">|<img src="Img/LOGO SITIO.png" width="400" height="400">|
   
 </div>
 
