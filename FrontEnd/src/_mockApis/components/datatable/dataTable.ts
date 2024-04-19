@@ -43,6 +43,97 @@ const BasicDatatables: Datatables[] = [
         status: 'Activo',
         budget: '22%'
     },
+    {
+        name: "Programa de ejercicios cardiovasculares",
+        post: "8 semanas",
+        project: "10-15-24",
+        status: "Activo",
+        budget: "60%"
+    },
+    {
+        name: "Programa de nutrición balanceada",
+        post: "12 semanas",
+        project: "09-30-24",
+        status: "Activo",
+        budget: "80%"
+    },
+    {
+        name: "Programa de entrenamiento funcional",
+        post: "6 semanas",
+        project: "11-05-24",
+        status: "Activo",
+        budget: "75%"
+    },
+    {
+        name: "Programa de Pilates",
+        post: "8 semanas",
+        project: "11-12-24",
+        status: "Activo",
+        budget: "70%"
+    },
+    {
+        name: "Programa de mindfulness para niños",
+        post: "4 semanas",
+        project: "11-18-24",
+        status: "Activo",
+        budget: "60%"
+    },
+    {
+        name: "Programa de control de estrés",
+        post: "12 semanas",
+        project: "11-25-24",
+        status: "Activo",
+        budget: "80%"
+    },
+    {
+        name: "Programa de carrera para principiantes",
+        post: "10 semanas",
+        project: "12-02-24",
+        status: "Activo",
+        budget: "65%"
+    },
+    {
+        name: "Programa de cocina saludable",
+        post: "6 semanas",
+        project: "12-09-24",
+        status: "Activo",
+        budget: "75%"
+    },
+    {
+        name: "Programa de Tai Chi",
+        post: "8 semanas",
+        project: "12-16-24",
+        status: "Activo",
+        budget: "70%"
+    },
+    {
+        name: "Programa de entrenamiento de maratón",
+        post: "16 semanas",
+        project: "12-23-24",
+        status: "Activo",
+        budget: "85%"
+    },
+    {
+        name: "Programa de terapia de grupo",
+        post: "12 semanas",
+        project: "12-30-24",
+        status: "Activo",
+        budget: "75%"
+    },
+    {
+        name: "Programa de ejercicios para personas mayores",
+        post: "10 semanas",
+        project: "01-06-25",
+        status: "Activo",
+        budget: "70%"
+    },
+    {
+        name: "Programa de hábitos de sueño saludables",
+        post: "6 semanas",
+        project: "01-13-25",
+        status: "Activo",
+        budget: "80%"
+    }
     
     
     
