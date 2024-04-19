@@ -133,7 +133,148 @@ const BasicDatatables: Datatables[] = [
         project: "01-13-25",
         status: "Activo",
         budget: "80%"
+    },
+    {
+        name: 'Programa de entrenamiento de resistencia muscular avanzado',
+        post: '8 semanas',
+        project: '02-20-25',
+        status: 'Activo',
+        budget: '75%'
+    },
+    {
+        name: 'Programa de yoga para principiantes',
+        post: '6 semanas',
+        project: '03-05-25',
+        status: 'Activo',
+        budget: '65%'
+    },
+    {
+        name: 'Programa de meditación guiada',
+        post: '4 semanas',
+        project: '03-12-25',
+        status: 'Activo',
+        budget: '60%'
+    },
+    {
+        name: 'Programa de ejercicios de alta intensidad (HIIT)',
+        post: '10 semanas',
+        project: '03-19-25',
+        status: 'Activo',
+        budget: '70%'
+    },
+    {
+        name: 'Programa de entrenamiento de flexibilidad',
+        post: '6 semanas',
+        project: '03-26-25',
+        status: 'Activo',
+        budget: '55%'
+    },
+    {
+        name: 'Programa de dieta cetogénica',
+        post: '12 semanas',
+        project: '04-02-25',
+        status: 'Activo',
+        budget: '80%'
+    },
+    {
+        name: 'Programa de ejercicios de rehabilitación',
+        post: '8 semanas',
+        project: '04-09-25',
+        status: 'Activo',
+        budget: '70%'
+    },
+    {
+        name: 'Programa de entrenamiento de boxeo',
+        post: '10 semanas',
+        project: '04-16-25',
+        status: 'Activo',
+        budget: '75%'
+    },
+    {
+        name: 'Programa de alimentación vegana',
+        post: '6 semanas',
+        project: '04-23-25',
+        status: 'Activo',
+        budget: '65%'
+    },
+    {
+        name: 'Programa de ejercicios acuáticos',
+        post: '8 semanas',
+        project: '04-30-25',
+        status: 'Activo',
+        budget: '70%'
+    },
+    {
+        name: 'Programa de mindfulness para adolescentes',
+        post: '4 semanas',
+        project: '05-07-25',
+        status: 'Activo',
+        budget: '60%'
+    },
+    {
+        name: 'Programa de ejercicios de estiramiento',
+        post: '6 semanas',
+        project: '05-14-25',
+        status: 'Activo',
+        budget: '55%'
+    },
+    {
+        name: 'Programa de nutrición deportiva',
+        post: '12 semanas',
+        project: '05-21-25',
+        status: 'Activo',
+        budget: '75%'
+    },
+    {
+        name: 'Programa de ejercicios de equilibrio y coordinación',
+        post: '8 semanas',
+        project: '05-28-25',
+        status: 'Activo',
+        budget: '65%'
+    },
+    {
+        name: 'Programa de alimentación para aumento de masa muscular',
+        post: '10 semanas',
+        project: '06-04-25',
+        status: 'Activo',
+        budget: '80%'
+    },
+    {
+        name: 'Programa de ejercicios de respiración',
+        post: '6 semanas',
+        project: '06-11-25',
+        status: 'Activo',
+        budget: '60%'
+    },
+    {
+        name: 'Programa de entrenamiento para mejorar la postura',
+        post: '8 semanas',
+        project: '06-18-25',
+        status: 'Activo',
+        budget: '70%'
+    },
+    {
+        name: 'Programa de alimentación sin gluten',
+        post: '12 semanas',
+        project: '06-25-25',
+        status: 'Activo',
+        budget: '75%'
+    },
+    {
+        name: 'Programa de ejercicios para fortalecer la espalda',
+        post: '10 semanas',
+        project: '07-02-25',
+        status: 'Activo',
+        budget: '65%'
+    },
+    {
+        name: 'Programa de yoga prenatal',
+        post: '6 semanas',
+        project: '07-09-25',
+        status: 'Activo',
+        budget: '60%'
     }
+    
     
     
     
