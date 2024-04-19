@@ -75,8 +75,8 @@ const seriescolumnchart = [
 <template>
     <v-card elevation="10" >
         <v-card-item>
-            <v-card-title class="text-h5">Revenue Updates</v-card-title>
-            <v-card-subtitle class="text-subtitle-1 textSecondary">Overview of Profit</v-card-subtitle>
+            <v-card-title class="text-h5">Seguimiento de rutinas</v-card-title>
+            <v-card-subtitle class="text-subtitle-1 textSecondary">porsentaje de avance</v-card-subtitle>
             <div class="d-flex align-center mt-6">
                 <h6 class="text-subtitle-2 textSecondary d-flex align-center">
                     <v-icon icon="mdi mdi-checkbox-blank-circle" class="mr-2" size="10" color="primary"></v-icon> Footware
