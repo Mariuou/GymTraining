@@ -32,13 +32,16 @@
 
 <br>
 
-## Organigrama
-
+## Organigrama del equipo
+<br>
 
 
 <p align="center">
   <img src="Img/ORGANIGRAMA.png?raw=true" alt="Organigrama de equipo">
 </p>
+
+<h3 align="left">Integrantes </h3>
+<br>
 
 <div align="center">
 
