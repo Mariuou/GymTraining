@@ -64,25 +64,25 @@ const Chart = [38, 40, 25];
     <v-card elevation="10" >
         <v-card-item>
             <div class="d-sm-flex align-center justify-space-between">
-                <v-card-title class="text-h5">Yearly Breakup</v-card-title>
+                <v-card-title class="text-h5">Estatus de plan de seguimiento</v-card-title>
             </div>
             <v-row>
                 <v-col cols="7" sm="7">
                     <div class="mt-6">
-                        <h3 class="text-h3">$36,358</h3>
+                        <h3 class="text-h3">Activo</h3>
                         <div class="mt-2">
                             <v-avatar class="bg-lightsuccess text-success" size="25">
                                 <ArrowUpLeftIcon size="20" />
                             </v-avatar>
-                            <span class="text-subtitle-1 ml-2 font-weight-bold">+9%</span>
-                            <span class="text-subtitle-1 textSecondary ml-2">last year</span>
+                            <span class="text-subtitle-1 ml-2 font-weight-bold">+50%</span>
+                            <span class="text-subtitle-1 textSecondary ml-2">Personas Activas</span>
                         </div>
                         <div class="d-flex align-center mt-sm-10 mt-8">
                             <h6 class="text-subtitle-1 textSecondary">
-                                <v-icon icon="mdi mdi-checkbox-blank-circle" class="mr-1" size="10" color="primary"></v-icon> 2022
+                                <v-icon icon="mdi mdi-checkbox-blank-circle" class="mr-1" size="10" color="primary"></v-icon> 
                             </h6>
                             <h6 class="text-subtitle-1 textSecondary pl-5">
-                                <v-icon icon="mdi mdi-checkbox-blank-circle" class="mr-1" size="10" color="lightprimary"></v-icon> 2023
+                                <v-icon icon="mdi mdi-checkbox-blank-circle" class="mr-1" size="10" color="lightprimary"></v-icon> 
                             </h6>
                         </div>
                     </div>
