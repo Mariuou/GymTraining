@@ -1,10 +1,10 @@
 <h1 align="center"> Universidad Tecnológica de Xicotepec de Juárez </h1>
-<h1 align="center"> Ingeniería en Desarrollo y Gestión de Software </h2>
-<h1 align="center"> Proyecto Integrador </h2>
-<h1 align="center"> Octavo Cuatrimestre Grupo B </h2>
+<h1 align="center"> Ingeniería en Desarrollo y Gestión de Software </h1>
+<h1 align="center"> Proyecto Integrador </h1>
+<h2 align="center"> Octavo Cuatrimestre Grupo B </h2>
 <br>
 
-## Información del proyecto 
+<h3 align="center"> Información del proyecto </h3>
 
 <div align="center">
 
@@ -15,6 +15,9 @@
 
 
 </div>
+
+<br>
+<br>
 
 
 <div align="center">
