@@ -64,8 +64,8 @@ const seriescolumnchart = [55, 55, 55];
 <template>
     <v-card elevation="10" >
         <v-card-item>
-            <v-card-title class="text-h5">Sales Overview</v-card-title>
-            <v-card-subtitle class="text-subtitle-1 textSecondary">Every month</v-card-subtitle>
+            <v-card-title class="text-h5">Programas saludables</v-card-title>
+            <v-card-subtitle class="text-subtitle-1 textSecondary">estatus de seguimiento</v-card-subtitle>
             <apexchart class="mt-6" type="donut" height="275" :options="chartOptions" :series="seriescolumnchart"> </apexchart>
             <v-row class="mt-5">
                 <v-col cols="6">
