@@ -15,6 +15,34 @@ const BasicDatatables: Datatables[] = [
         status: 'Activo',
         budget: '30%'
     },
+    {
+        name: 'Perdida de peso',
+        post: '4 semanas',
+        project: '10-10-23',
+        status: 'Activo',
+        budget: '70%'
+    },
+    {
+        name: 'Programa de entrenamiento de resistencia muscular',
+        post: '6 semanas',
+        project: '04-002-23',
+        status: 'Inactivo',
+        budget: '50%'
+    },
+    {
+        name: 'Programa de alimentación consciente',
+        post: '5 semanas',
+        project: '10-06-24',
+        status: 'Activo',
+        budget: '30%'
+    },
+    {
+        name: 'Programa de caminatas al aire libr',
+        post: '6 semanas',
+        project: '5-02-23',
+        status: 'Activo',
+        budget: '22%'
+    },
     
     
     
