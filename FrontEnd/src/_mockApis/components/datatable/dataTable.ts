@@ -15,6 +15,13 @@ const BasicDatatables: Datatables[] = [
         status: 'Activo',
         budget: '30%'
     },
+    {
+        name: 'Perdida de peso',
+        post: '4 semanas',
+        project: '10-10-23',
+        status: 'Activo',
+        budget: '70%'
+    },
     
     
     
