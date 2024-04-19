@@ -54,29 +54,32 @@ const breadcrumbs = ref([
         <!-- Current Value -->
         <v-col cols="12">
             <!-- <CurrentValue /> -->
+           
+                <YearlyBreakup />
+            <MonthlyEarnings />
+                    <SalesOverview />
         </v-col>
         <v-col cols="12" sm="3">
             <Followers />
         </v-col>
         <v-col cols="12" md="4">
             <!-- Yearly Breakup -->
-            <YearlyBreakup />
             <!-- Monthly Earnings -->
-            <MonthlyEarnings />
+           
             <!-- Most Visited -->
-            <MostVisited />
+            <!-- <MostVisited /> -->
         </v-col>
         <v-col cols="12" md="4">
             <!-- Yearly Sales -->
-            <YearlySales />
+            <!-- <YearlySales /> -->
             <!-- Page Impression -->
-            <PageImpression />
+            <!-- <PageImpression /> -->
             <v-row class="mt-3">
                 <v-col cols="12" sm="6">
-                    <Customers />
+                    <!-- <Customers /> -->
                 </v-col>
                 <v-col cols="12" sm="6">
-                    <Projects />
+                    <!-- <Projects /> -->
                 </v-col>
             </v-row>
         </v-col>
@@ -85,11 +88,10 @@ const breadcrumbs = ref([
             <v-row>
                 <!-- Revenue Updates -->
                 <v-col cols="12">
-                    <RevenueUpdates />
                 </v-col>
+                <RevenueUpdates />
                 <!-- Sales Overview -->
                 <v-col cols="12">
-                    <SalesOverview />
                 </v-col>
             </v-row>
         </v-col>
