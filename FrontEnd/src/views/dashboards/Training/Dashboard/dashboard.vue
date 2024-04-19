@@ -12,7 +12,7 @@ import BlogCard from "@/components/dashboards/analytical/BlogCard.vue";
 import WeeklyStats from "@/components/dashboards/analytical/WeeklyStats.vue";
 import DailyActivities from "@/components/dashboards/analytical/DailyActivities.vue";
 
-const page = ref({ title: "Analytical" });
+const page = ref({ title: "Dashboard de seguimiento" });
 const breadcrumbs = ref([
   {
     text: "Dashboard",
