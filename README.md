@@ -1,6 +1,6 @@
 <h1 align="center"> Universidad Tecnológica de Xicotepec de Juárez </h1>
 <h1 align="center"> Ingeniería en Desarrollo y Gestión de Software </h1>
-<h1 align="center"> Proyecto Integrador </h1>
+<h1 align="center"> Tarea Integradora </h1>
 <h2 align="center"> Octavo Cuatrimestre Grupo B </h2>
 <br>
 
@@ -32,13 +32,16 @@
 
 <br>
 
-## Organigrama
-
+## Organigrama del equipo
+<br>
 
 
 <p align="center">
   <img src="Img/ORGANIGRAMA.png?raw=true" alt="Organigrama de equipo">
 </p>
+
+## Integrantes 
+<br>
 
 <div align="center">
 
