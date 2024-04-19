@@ -1,1 +1,80 @@
-Espacio para base de datos NoSQL
+var seguimiento = [
+    {
+        _id: "MTS-1",
+        fecha: new Date("2024-04-16"),
+        usuario: { nombre: "Mario Gutierrez", email: "mario@example.com" },
+        instructor: { nombre: "Gabriela Rosales", email: "gabriela@example.com" },
+        asistencia: { asistencia: true, estatus: "Iniciada" },
+        porcentaje_avance: 90.0,
+        tipo: "Seguimiento estándar",
+        createdAt: new Date(),
+        updatedAt: new Date()
+    },
+    {
+        _id: "MTS-2",
+        fecha: new Date("2024-03-16"),
+        usuario: { nombre: "Marco Morales", email: "marco@example.com" },
+        instructor: { nombre: "Antonio Rivera", email: "antonio@example.com" },
+        asistencia: { asistencia: true, estatus: "Iniciada" },
+        porcentaje_avance: 85.0,
+        tipo: "Seguimiento estándar",
+        createdAt: new Date(),
+        updatedAt: new Date()
+    },
+    {
+        _id: "MTS-3",
+        fecha: new Date("2024-02-16"),
+        usuario: { nombre: "Jude Bellingham", email: "jude@example.com" },
+        instructor: { nombre: "Bruno Valdez", email: "bruno@example.com" },
+        asistencia: { asistencia: true, estatus: "Iniciada" },
+        porcentaje_avance: 90.0,
+        tipo: "Seguimiento avanzado",
+        createdAt: new Date(),
+        updatedAt: new Date()
+    },
+    {
+        _id: "MTS-4",
+        fecha: new Date("2024-04-16"),
+        usuario: { nombre: "Cristiano Ronaldo", email: "cristiano@example.com" },
+        instructor: { nombre: "Eduardo Camavinga", email: "eduardo@example.com" },
+        asistencia: { asistencia: true, estatus: "Iniciada" },
+        porcentaje_avance: 95.0,
+        tipo: "Seguimiento avanzado",
+        createdAt: new Date(),
+        updatedAt: new Date()
+    },
+    {
+        _id: "MTS-5",
+        fecha: new Date("2024-04-16"),
+        usuario: { nombre: "Sergio Perez", email: "sergio@example.com" },
+        instructor: { nombre: "Carlos Garza", email: "carlos@example.com" },
+        asistencia: { asistencia: true, estatus: "Programada" },
+        porcentaje_avance: 55.0,
+        tipo: "Seguimiento estándar",
+        createdAt: new Date(),
+        updatedAt: new Date()
+    },
+    {
+        _id: "MTS-6",
+        fecha: new Date("2024-04-16"),
+        usuario: { nombre: "Toni Kroos", email: "toni@example.com" },
+        instructor: { nombre: "Henry Martin", email: "henry@example.com" },
+        asistencia: { asistencia: true, estatus: "Suspendida" },
+        porcentaje_avance: 24.0,
+        tipo: "Seguimiento estándar",
+        createdAt: new Date(),
+        updatedAt: new Date()
+    },
+    {
+        _id: "MTS-7",
+        fecha: new Date("2024-04-16"),
+        usuario: { nombre: "Tyler Joseph", email: "tyler@example.com" },
+        instructor: { nombre: "Jenna Joseph", email: "jenna@example.com" },
+        asistencia: { asistencia: true, estatus: "Iniciada" },
+        porcentaje_avance: 21.0,
+        tipo: "Seguimiento estándar",
+        createdAt: new Date(),
+        updatedAt: new Date()
+    }
+];
+
