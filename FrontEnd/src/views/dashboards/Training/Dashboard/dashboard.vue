@@ -53,7 +53,7 @@ const breadcrumbs = ref([
         </v-col> -->
         <!-- Current Value -->
         <v-col cols="12">
-            <CurrentValue />
+            <!-- <CurrentValue /> -->
         </v-col>
         <v-col cols="12" sm="3">
             <Followers />
