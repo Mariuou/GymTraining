@@ -53,7 +53,7 @@ const areaChart = {
     <v-card elevation="10" class=" mt-6">
         <v-card-item class="">
             <div class="d-flex align-center justify-space-between">
-                <v-card-title class="text-h5">Monthly Earnings</v-card-title>
+                <v-card-title class="text-h5">Rutinas</v-card-title>
                 <v-avatar class="rounded-md bg-lightprimary text-primary">
                     <img src="@/assets/images/svgs/icon-master-card-2.svg" alt="ico" />
                 </v-avatar>
