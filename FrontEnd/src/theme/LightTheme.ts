@@ -183,8 +183,8 @@ const ORANGE_THEME: ThemeTypes = {
         'border-opacity': 1,
     },
     colors: {
-        primary: '#fb9678',
-        secondary: '#03c9d7',
+        primary: '#de0000',
+        secondary: '#de0000',
         info: '#539BFF',
         success: '#05b187',
         accent: '#FFAB91',
