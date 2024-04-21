@@ -3,7 +3,6 @@ import { computed } from 'vue';
 import { useTheme } from 'vuetify';
 import { getPrimary, getSecondary } from '@/utils/UpdateColors';
 import { ref } from 'vue';
-
 // common components
 import BaseBreadcrumb from '@/components/shared/BaseBreadcrumb.vue';
 import UiParentCard from '@/components/shared/UiParentCard.vue';
@@ -17,7 +16,6 @@ const breadcrumbs = ref([
         href: '#'
     },
 ]);
-
 const theme = useTheme();
 const success = theme.current.value.colors.success;
 const accent = theme.current.value.colors.accent;
