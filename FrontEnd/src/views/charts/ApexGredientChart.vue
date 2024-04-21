@@ -22,7 +22,7 @@ const breadcrumbs = ref([
     }
 ]);
 
-const chartOptions = computed(() => {
+const chartOptions2 = computed(() => {
     return {
         chart: {
             type: 'line',
@@ -123,7 +123,7 @@ const gredientChart = {
     <v-row>
         <v-col cols="12">
             <UiParentCard title="Gredient Chart">
-                <apexchart type="line" height="350" :options="chartOptions" :series="gredientChart.series"></apexchart>
+                <apexchart type="line" height="350" :options="chartOptions2" :series="gredientChart.series"></apexchart>
             </UiParentCard>
         </v-col>
     </v-row>
