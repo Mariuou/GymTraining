@@ -43,8 +43,8 @@ const DARK_RED_THEME: ThemeTypes = {
         'border-opacity': 1,
     },
     colors: {
-        primary: '#5e244d',
-        secondary: '#ff5c8e',
+        primary: '#de0000',
+        secondary: '##de0000',
         info: '#539BFF',
         success: '#13DEB9',
         accent: '#FA896B',
