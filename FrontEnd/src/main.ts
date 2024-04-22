@@ -1,4 +1,6 @@
 import { createApp } from 'vue';
+import axios from 'axios';
+
 import { createPinia } from 'pinia';
 import App from './App.vue';
 import { router } from './router';
@@ -48,3 +50,13 @@ app.use(VueScrollTo, {
     duration: 1000,
     easing: "ease"
 })
+
+axios.get('http://127.0.0.1:8000/gimnasio/api/v1programas_saludables/')
+  .then(response => {
+    // Manipula los datos de respuesta aquí
+    console.log(response.data);
+  })
+  .catch(error => {
+    // Maneja los errores de la solicitud aquí
+    console.error('Error al obtener datos de la API:', error);
+  });

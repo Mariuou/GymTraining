@@ -103,8 +103,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': '1234',
-        'PORT': '3307',
+        'PASSWORD': '12345',
+        'PORT': '3306',
         'NAME': 'training_gimnasio',
     }
 }
